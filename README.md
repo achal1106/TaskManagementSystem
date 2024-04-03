@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/acahl1106/task-management-system.git
+git clone https://github.com/achal1106/task-management-system.git
 Configure Database:
 
 Create a MySQL database named task_management.
